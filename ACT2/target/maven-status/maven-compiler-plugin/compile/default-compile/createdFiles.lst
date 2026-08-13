@@ -1,0 +1,4 @@
+com\example\demo\Services\CursoService.class
+com\example\demo\Controller\CursoRestController.class
+com\example\demo\Model\Curso.class
+com\example\demo\Application.class
